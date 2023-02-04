@@ -103,3 +103,50 @@ textarea{
     border-left-style: hidden;
     border-right-style: hidden;
 }
+.block2{
+    
+    padding-right: 5rem;
+}
+.right_headings{
+    
+    color: black;
+    display:inline-block;
+    
+    
+}
+.block3{
+    
+    padding-right: 5rem;
+}
+.block4{
+    
+    padding-right: 5rem;
+}
+.block5{
+    
+    padding-right: 5rem;
+}
+a{
+    display: inline-block;
+}
+.abc{
+    width:900px;
+}
+#StartingYear_resume{
+    display:inline-block;
+    font-size: small;
+}
+#PassingYear_resume{
+    display:inline-block;
+    font-size: small;
+}
+#Company_resume,#Designation_resume{
+    color:grey;
+}
+#Duration_resume{
+    color:grey;
+}
+#CGPA_resume{
+    font-size:small ;
+    
+}
